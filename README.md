@@ -1,4 +1,4 @@
-> Note: For full code contact `jiwan.cse@gmail.com` or WhatsApp `+91 7026217029`
+> Note: For full code, contact `jiwan.cse@gmail.com` or WhatsApp `+91 7026217029`. It's Free.
 
 # gen-blog
 
