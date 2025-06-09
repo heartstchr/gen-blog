@@ -24,9 +24,11 @@ A Node.js library that generates SEO-friendly blog posts from YouTube videos usi
 ## Installation
 
 ```sh
-npm install gen-blog
+git clone <url you will get in an email>
+
+npm install path/to/gen-blog
 # or
-pnpm install gen-blog
+pnpm install path/to/gen-blog
 ```
 
 ## Setup
